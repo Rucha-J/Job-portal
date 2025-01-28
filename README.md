@@ -2,7 +2,6 @@ The content in the **Setup Instructions** section seems incomplete. Let me fix a
 
 Here’s the corrected version:
 
-```markdown
 # Food Delivery System
 
 ## Description
@@ -125,12 +124,6 @@ Contributions are welcome! Follow these steps to contribute:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contact
 
 For any queries or suggestions, please contact:
@@ -140,13 +133,5 @@ For any queries or suggestions, please contact:
 - Email: your_email@example.com
 
 ---
-
-## Screenshots
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Homepage+Screenshot" alt="Homepage Screenshot" />
-  <img src="https://via.placeholder.com/800x400?text=Menu+Screenshot" alt="Menu Screenshot" />
-</p>
-```
 
 Would you like me to make any additional changes or expand certain sections?
